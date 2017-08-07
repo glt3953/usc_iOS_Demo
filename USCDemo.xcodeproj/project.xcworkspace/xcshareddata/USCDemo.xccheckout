@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BD2B0B92-4B8F-4513-B11C-A22EE400EBE9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>USCDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>901722970B7B47E1C759BD7FA5AAAD8C208A201E</key>
+		<string>gitlab.yzs.io:sdk/SDK_3.0_android_build.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>build_sdk_resource/usc_ios_newinterface/USCDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>901722970B7B47E1C759BD7FA5AAAD8C208A201E</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>gitlab.yzs.io:sdk/SDK_3.0_android_build.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>901722970B7B47E1C759BD7FA5AAAD8C208A201E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>901722970B7B47E1C759BD7FA5AAAD8C208A201E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SDK_3.0_android_build</string>
+		</dict>
+	</array>
+</dict>
+</plist>
